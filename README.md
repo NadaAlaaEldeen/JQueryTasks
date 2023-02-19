@@ -1,1 +1,9 @@
 # JQueryTasks
+## Slider
+### https://nadaalaaeldeen.github.io/JQueryTasks/L1_animation/SlideShow/
+## Cards
+### https://nadaalaaeldeen.github.io/JQueryTasks/L1_animation/Cards/
+## Rabbit&Hole
+### https://nadaalaaeldeen.github.io/JQueryTasks/L2_JQueryUI/Rabbit&Hole/
+## ToDoList
+### https://nadaalaaeldeen.github.io/JQueryTasks/L2_JQueryUI/ToDoList/
