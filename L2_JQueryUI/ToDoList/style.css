@@ -1,0 +1,65 @@
+body
+{
+    font-family: 'Caveat', cursive;
+    background: rgb(77,80,84);
+    background: linear-gradient(135deg, rgba(77,80,84,1) 13%, rgba(255,255,255,0.9) 50%, #42de6e 67%, rgba(0,0,0,1) 100%);
+     height:100vh;
+    background-repeat: no-repeat;
+    color: white;
+}
+h1
+{
+    font-size:xx-large;
+    text-align: center;
+    text-shadow: 4px 0px rgba(255, 255, 255, 0.13);
+    color:#42de6e;
+}
+button ,input,span
+{
+    color:#42de6e;
+    background-color:black;
+    border:3px gray solid;
+    font-size: x-large;
+    font-family: 'Caveat', cursive;
+    padding:0.8vw;
+}
+input
+{
+    width:80%;
+    margin-left:1%;
+}
+#tasks
+{
+background-color: black;
+border:3px gray solid;
+width: 70vw;
+margin: auto;
+margin-top: 5vh;
+}
+#task
+{
+background-color: gray;
+}
+#ClrAll
+{
+  margin:auto;
+  margin: 2vh 1%;
+  width:100%;
+}
+#clrsection
+{   display: grid;
+    background-color:transparent;
+    justify-content: center;
+}
+.task input
+{
+    width:50%;
+    margin-bottom:5%;
+    background: linear-gradient(135deg, rgba(77,80,84,1) 13%, rgba(255,255,255,0.9) 100%);
+    color: black;
+}
+.marked
+{
+    text-decoration: line-through;
+    text-decoration-color: #42de6e;
+}

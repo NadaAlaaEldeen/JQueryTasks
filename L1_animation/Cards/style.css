@@ -1,0 +1,74 @@
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    font-family: arial;
+}
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+html
+{
+    background: rgb(34, 98, 195);
+    background: linear-gradient(90deg, rgb(34, 90, 195) 0%, rgba(222,167,66,1) 67%, rgba(253,187,45,1) 100%, rgba(55,45,24,1) 152%);  
+}
+img
+{
+    height: 15vw;
+    width:30vw;
+    border: 2px solid black;
+}
+
+#places{
+    margin:2%;
+}
+
+#places ul {
+    list-style-type: none;
+}
+
+#places  li {
+    float: left;
+    width: 32%;
+}
+
+#places  li:nth-child(2) {
+    margin: 0 2%;
+}
+
+#places  li h3 {
+    text-align: center;
+    color: black;
+    font-size: 24px;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+#places  p {
+    text-align: center;
+    width: 80%;
+    margin: 0 10%;
+    font-size: 14px;
+    line-height: 1.4em;
+}
+h1
+{
+font-family:'Dancing Script', cursive;
+font-weight: bold;
+font-size: x-large;
+text-align: center;
+text-shadow: 2px 2px rgba(253,187,45,1);
+}
